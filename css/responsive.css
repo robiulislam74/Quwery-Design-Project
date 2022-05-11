@@ -1,0 +1,567 @@
+@media (min-width:320px) and (max-width:575.98px){
+    .navbar {
+        margin-top: 9px;
+    }
+
+    .fa-solid, .fas {
+        margin-left: 19px;
+    }
+
+    nav input {
+        margin-left: -17px;
+    }
+
+    #bannar-part {
+        padding: 0;
+    }
+
+    #bannar-part p {
+        font-size: 14px;
+        letter-spacing: 3px;
+        padding-top: 231px;
+    }
+
+    #bannar-part h3 {
+        font-size: 67px;
+        line-height: 70px;
+    }
+
+    #bannar-part h4 {
+        font-size: 32px;;
+        margin-top: -2px;
+    }
+
+    #enjoyed-part img {
+        margin-top: -227px;
+    }
+
+    #enjoyed-part h5 {
+        font-size: 16px;
+        letter-spacing: 3px;
+        margin-top: 44px;
+    }
+
+    #enjoyed-part h2 {
+        font-size: 32px;
+        margin: 17px 0;
+    }
+
+    #enjoyed-part p {
+        font-size: 14px;
+        width: auto;
+        line-height: 25px;
+    }
+    #enjoyed-part a {
+        margin-top: 24px;
+    }
+
+    #steps-part .image {
+        padding: 0;
+        margin-top: -222px;
+    }
+
+    #steps-part .image .bromo {
+        padding-top: 220px;
+    }
+
+    #steps-part .image h3 {
+        font-size: 28px;
+        width: auto;
+    }
+
+    #steps-part .image .details {
+        font-size: 14px;
+        font-weight: 500;
+        color: #fff;
+        width: auto;
+        line-height: 23px;
+        text-transform: unset;
+        margin-top: 13px;
+    }
+
+    #steps-part a{
+        padding-bottom: 15px;
+    }
+
+    #people-part h5 {
+        font-size: 16px;
+        letter-spacing: 3px;
+        margin-top: -175px;
+    }
+
+    #people-part h2 {
+        font-size: 28px;
+        width: auto;
+    }
+
+    #people-part p {
+        font-size: 14px;
+        line-height: 28px;
+        width: auto;
+    }
+
+    #people-part a {
+        margin-top: 8px;
+    }
+
+    #people-part img {
+        width: 100%;
+        margin-left: 0px;
+        margin-top: 50px;
+    }
+
+    img, svg {
+        margin-top: -88px;
+    }
+
+    footer p {
+        margin-top: 0px;
+    }
+
+    footer a {
+        margin-left: 0px;
+    }
+
+    footer .button{
+        margin-top: -23px;
+    }
+
+    footer .footer-item h4 {
+        font-size: 20px;
+        width: 71%;
+    }
+
+    footer .footer-item span {
+        font-size: 14px;
+        margin-top: 5px;
+    }
+
+    footer .footer-item h5 {
+        font-size: 16px;
+        margin-top: 24px;
+    }
+    footer .footer-item {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    footer .footer-item .terms {
+        margin-right: 33px;
+        margin-bottom: 20px;
+    }
+
+    footer .footer-item ul li {
+        font-size: 14px;
+        margin: 5px 17px 5px 5px;
+    }
+
+    footer .footer-item {
+        margin-left: 2px;
+    }
+
+    footer .icons {
+        margin-top: -125px;
+    }
+
+    footer h6 {
+        font-size: 14px;
+        margin: 13px 0 -182px 0;
+    }
+
+    /*============================*/
+}
+
+@media (min-width:576px) and (max-width:767.98px){
+    .navbar {
+        margin-top: 29px;
+    }
+
+    nav ul li {
+        margin: 0 15.5px;
+        margin-top: 0px;
+    }
+
+    .fa-solid, .fas {
+        margin-left: 19px;
+    }
+
+    nav input {
+        margin-left: -17px;
+    }
+
+    #bannar-part {
+        padding: 0;
+    }
+    
+    #bannar-part p {
+        font-size: 16px;
+        letter-spacing: 3px;
+        padding-top: 255px;
+    }
+
+    #bannar-part h3 {
+        font-size: 67px;
+        line-height: 70px;
+    }
+
+    #bannar-part h4 {
+        font-size: 32px;;
+        margin-top: -2px;
+    }
+
+    #bannar-part h4 {
+        font-size: 56px;
+    }
+
+    #enjoyed-part img {
+        margin-top: -210px;
+    }
+
+    #enjoyed-part h5 {
+        letter-spacing: 4px;
+        margin-top: 63px;
+    }
+
+    #enjoyed-part h2 {
+        font-size: 40px;
+    }
+
+    #enjoyed-part p {
+        font-size: 14px;
+        line-height: 29px;
+        width: auto;
+    }
+
+    #enjoyed-part a {
+        margin-top: 35px;
+    }
+
+    #steps-part .image {
+        margin-top: -193px;
+    }
+
+    #steps-part .image h3 {
+        font-size: 48px;
+        width: auto;
+        line-height: 56px;
+    }
+
+    #steps-part .image .details {
+        font-size: 15px;
+        width: auto;
+        line-height: 30px;
+        margin-top: 13px;
+    }
+
+    #people-part h5 {
+        letter-spacing: 5px;
+        margin-top: -187px;
+    }
+
+    footer p {
+        margin-top: 45px;
+    }
+
+    #people-part h2 {
+        font-size: 44px;
+        width: auto;
+    }
+
+    #people-part p {
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        color: #fff;
+        text-transform: uppercase;
+        line-height: 29px;
+        width: auto;
+    }
+
+    #people-part a {
+        margin-top: 34px;
+    }
+
+    #people-part img {
+        width: 100%;
+        margin-left: 0px;
+        margin-top: 67px;
+    }
+
+    img, svg {
+        margin-top: 0px;
+    }
+
+    .row > * {
+
+        margin-top: -30px;
+    }
+
+    footer .footer-item h4 {
+        font-size: 26px;
+    }
+
+    footer .footer-item span {
+        margin-top: 10px;
+        margin-right: 25px;
+    }
+
+    footer .footer-item h5 {
+        font-size: 18px;
+    }
+
+    footer .footer-item ul li {
+        font-size: 16px;
+        margin: 12px 8px;
+    }
+
+    footer .icons {
+        margin-top: -110px;
+    }
+
+    footer h6 {
+        margin: 25px 0;
+    }
+    /*======================*/
+}
+
+@media (min-width:768px) and (max-width:991.98px){
+    .navbar {
+        margin-top: 40px;
+    }
+
+    
+    nav ul li {
+        margin: 0 15.5px;
+        margin-top: 0px;
+    }
+
+    .fa-solid, .fas {
+        margin-left: 19px;
+    }
+
+    nav input {
+        margin-left: -17px;
+    }
+
+    #bannar-part {
+        padding: 0;
+    }
+
+    #bannar-part p {
+        font-size: 16px;
+        letter-spacing: 3px;
+        padding-top: 255px;
+    }
+
+    #bannar-part h3 {
+        font-size: 67px;
+        line-height: 70px;
+    }
+
+    #bannar-part p {
+        font-size: 18px;
+        letter-spacing: 4px;
+        padding-top: 320px;
+    }
+
+    #bannar-part h3 {
+        font-size: 78px;
+        line-height: 60px;
+    }
+
+    #bannar-part h4 {
+        font-size: 61px;
+    }
+
+    #enjoyed-part img {
+        margin-top: -192px;
+    }
+
+    #enjoyed-part h5 {
+        margin-top: 58px;
+    }
+
+    #enjoyed-part p {
+        font-size: 16px;
+        width: auto;
+    }
+
+    #enjoyed-part a {
+        margin-top: 16px;
+    }
+
+    #steps-part .image {
+        margin-top: -223px;
+    }
+
+    #steps-part .image h3 {
+        width: auto;
+    }
+
+    #people-part h2 {
+        font-size: 62px;
+    }
+
+    #steps-part .image .details {
+        font-size: 16px;
+        width: auto;
+    }
+
+    #people-part h5 {
+        margin-top: -204px;
+    }
+
+    #people-part p {
+        width: auto;
+    }
+
+    #people-part a {
+        margin-top: 30px;
+    }
+
+    #people-part img {
+        width: 100%;
+        margin-left: 0px;
+        margin-top: 91px;
+    }
+
+    img, svg {
+        margin-top: 0px;
+    }
+
+    footer .flx{
+        display: flex;
+    }
+
+    footer .button {
+        margin-top: -6px;
+    }
+
+    footer p {
+        margin-left: 90px;
+    }
+
+    footer a {
+        margin-left: 31px;
+    }
+
+    footer .footer-item h4 {
+        font-size: 38px;
+    }
+
+    footer .footer-item span {
+        font-size: 16px;
+    }
+
+    footer .footer-item span {
+        margin-top: 22px;
+        margin-right: 166px;
+    }
+
+    footer .footer-item h5 {
+        margin-right: 37px;
+    }
+
+    ul, ol, li {
+        margin-top: 25px;
+    }
+
+    footer .footer-item ul li {
+        margin: 12px 0;
+    }
+
+    footer .icons {
+        margin-top: -120px;
+    }
+
+    footer h6 {
+        margin: 23px 0;
+    }
+
+
+
+
+
+
+    /*============================*/
+}
+
+@media (min-width:992px) and (max-width:1199px){
+
+    #enjoyed-part h2 {
+        font-size: 57px;
+    }
+
+    #enjoyed-part p {
+        font-size: 14px;
+        width: auto;
+    }
+
+    #enjoyed-part a {
+        margin-top: 12px;
+    }
+
+    #steps-part .image {
+        margin-top: -95px;
+    }
+
+    #people-part h2 {
+        font-size: 44px;
+        width: auto;
+        line-height: 64px;
+    }
+
+    #people-part p {
+        font-size: 16px;
+        width: auto;
+    }
+
+    #people-part img {
+        width: 100%;
+        margin-left: 5px;
+    }
+
+    footer .flx{
+        display: flex;
+    }
+
+    footer p {
+        margin-right: -19px;
+    }
+
+    footer .footer-item h4 {
+        font-size: 32px;
+    }
+
+    footer .footer-item h5 {
+        font-size: 22px;
+    }
+
+    footer .footer-item ul li {
+        font-size: 18px;
+        margin: 17px 0;
+    }
+
+    footer .icons {
+        margin-top: -104px;
+    }
+
+    footer h6 {
+        font-size: 16px;
+        margin: 24px 0;
+    }
+
+    .row {
+        margin-top: -20px;
+    }
+
+    #bannar-part p {
+        margin-top: 90px;
+    }
+
+
+
+
+    
+    /*============================*/
+}

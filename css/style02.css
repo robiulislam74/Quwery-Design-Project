@@ -1,0 +1,339 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul,ol,li{
+    list-style: none;
+    padding-left: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    background: #000;
+}
+/*=====================================
+    Navbar Part Start
+=======================================*/
+.navbar{
+    position: absolute;
+    width: 100%;
+    margin-top: 60px;
+}
+
+nav ul li{
+    margin: 0 15.5px;
+}
+
+nav ul li a{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff !important;
+}
+
+nav input{
+    border: 0;
+    background: transparent;
+}
+
+nav i{
+    margin-right: 21px;
+    color: #fff;
+}
+
+nav input::placeholder{
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    color: #fff;
+}
+/*=====================================
+    Navbar Part End
+=======================================*/
+/*=====================================
+   Bannar Part Start
+=======================================*/
+#bannar-part{
+    background: url(../images/bannar-img.png) no-repeat center;
+    background-size: cover;
+    padding: 500px 0 440px 0;
+}
+
+#bannar-part p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFC178;
+    letter-spacing: 6px;
+}
+
+#bannar-part h3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 96px;
+    font-weight: 700;
+    color: #fff;
+    line-height: 100px;
+}
+
+#bannar-part h4{
+    font-family: 'Poppins', sans-serif;
+    font-size: 88px;
+    font-weight: 400;
+    color: #fff;
+}
+/*=====================================
+    Bannar Part End
+=======================================*/
+/*=====================================
+   Enjoyed Part Start
+=======================================*/
+#enjoyed-part{
+    margin: 356px 0 295px 0;
+}
+
+#enjoyed-part img{
+    width: 100%;
+}
+
+#enjoyed-part h5{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FBD784;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+}
+#enjoyed-part h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    margin: 13px 0;
+}
+#enjoyed-part p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 32px;
+    width: 587px;
+}
+
+#enjoyed-part a{
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FBD784;
+    text-transform: uppercase;
+    margin-top: 46px;
+}
+/*=====================================
+    Enjoyed Part End
+=======================================*/
+/*=====================================
+     Steps Part Start
+=======================================*/
+#steps-part .image{
+    background: url(../images/steps-img.jpg) no-repeat center;
+    background-size: cover;
+    text-align: center;
+    padding: 559px 0 32px 0;
+}
+
+#steps-part .image .bromo{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FBD784;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+}
+
+#steps-part .image h3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    color: #fff;
+    width: 780px;
+    margin: 0 auto;
+}
+
+#steps-part .image .details {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #fff;
+    width: 938px;
+    line-height: 32px;
+    margin: 0 auto;
+    text-transform: uppercase;
+    margin-top: 13px;
+}
+
+#steps-part a{
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FBD784;
+    text-transform: uppercase;
+    margin-top: 26px;
+}
+/*=====================================
+     Steps Part End
+=======================================*/
+/*=====================================
+   Enjoyed Part Start
+=======================================*/
+#people-part{
+    margin: 295px 0 199px 0;
+}
+
+#people-part img {
+    width: 76%;
+    margin-left: 143px;
+}
+
+#people-part h5{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FBD784;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+}
+#people-part h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    color: #fff;
+    width: 663px;
+    text-transform: uppercase;
+    margin: 13px 0;
+}
+#people-part p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 32px;
+    width: 699px;
+}
+
+#people-part a{
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FBD784;
+    text-transform: uppercase;
+    margin-top: 46px;
+}
+/*=====================================
+    Enjoyed Part End
+=======================================*/
+/*=====================================
+     Footer Part Start
+=======================================*/
+footer p{
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    color: #fff;
+    letter-spacing: -0.3px;
+}
+footer a{
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    color: #000;
+    padding: 18px 67px;
+    background: #FFA343;
+    border-radius: 10px;
+    margin-left: 54px;
+    transition: 0.4s;
+}
+
+footer a:hover{
+    background: #233759;
+    color: #fff;
+}
+
+
+footer .footer-item h4{
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: -0.3px;
+}
+
+footer .footer-item span{
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #fff;
+    letter-spacing: -0.2px;
+    margin-top: 49px;
+}
+
+footer .footer-item {
+    display: flex;
+    margin: 100px 0 160px 0;
+}
+
+footer .footer-item .terms{
+    margin-right: 94px;
+}
+
+footer .footer-item h5{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFD1A0;
+    letter-spacing: -0.23px;
+}
+
+footer .footer-item ul li{
+    font-family: 'Poppins', sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+    color: #fff;
+    letter-spacing: -0.2px;
+    margin: 20px 0;
+}
+
+footer .icons i{
+   color: #fff;
+   width: 26px;
+   height: 26px;
+   margin-right: 29px;
+}
+
+footer .icons{
+    text-align: center;
+}
+
+footer h6{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #808080;
+    text-align: center;
+    margin: 84px 0;
+}
+
+/*=====================================
+      Footer Part End
+=======================================*/
